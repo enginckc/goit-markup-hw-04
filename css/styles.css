@@ -125,7 +125,8 @@ justify-content: space-between;}*/
 .toptag {
    display: block;
    text-decoration: none;
-   color: #2E2F42;
+   position: relative;
+   color: #404bbf;
    font-size: 16px;
    font-weight: 500;
    letter-spacing: 0.02em;
@@ -136,13 +137,13 @@ justify-content: space-between;}*/
 }
 .toptag::after{
    content: "";
-      width: 100%;
-      position: absolute;
-      left: 0;
-      bottom: -1px;
-      height: 4px;
-      background-color: #404bbf;
-      border-radius: 2px;
+   width: 100%;
+   position: absolute;
+   left: 0;
+   bottom: -1px;
+   height: 4px;
+   background-color: #404bbf;
+   border-radius: 2px;
 }
 
 
@@ -476,7 +477,7 @@ address ul li {
 }
 
 .portfolio-information {
-   color: #F4F4FD;
+   color: #f4f4fd;
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;

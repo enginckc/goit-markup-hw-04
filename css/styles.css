@@ -477,10 +477,10 @@ address ul li {
 }
 
 .portfolio-information {
-   color: #f4f4fd;
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
+   color:#f4f4fd;
    padding: 40px 32px;
    background-color: #4D5AE5;
    position: absolute;

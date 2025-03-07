@@ -451,26 +451,6 @@ address ul li {
    text-transform: capitalize;
 }
 
-
-
-
-.our-portfolio p {
-   font-family: "Roboto", sans-serif;
-   font-weight: 400;
-   font-size: 16px;
-   line-height: 24px;
-   color: #434455;
-   letter-spacing: 0.02em;
-}
-
-.our-portfolio p {
-   font-family: "Roboto", sans-serif;
-   font-weight: 400;
-   font-size: 16px;
-   line-height: 24px;
-   color: #434455;
-   letter-spacing: 0.02em;
-}
 .portfoli-img-box {
    position: relative;
    overflow: hidden;
@@ -490,6 +470,7 @@ address ul li {
 
    
    }
+      
 .portfolio-information{
    color: #f4f4fd;
 
